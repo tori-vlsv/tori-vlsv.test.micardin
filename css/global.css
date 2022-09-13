@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	box-shadow: none;
+  font-family: 'Futura PT';
+}
+
+body {
+  background-color: rgba(185, 223, 255, 1);
+  padding-bottom: 29px;
+}
+
+img {
+  display: block;
+}
+
+input, button {
+  border: none;
+}
+
+.wrapper {
+  max-width: 321px;
+  margin: 0 auto;
+}
+
+.gapper {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+textarea::-webkit-input-placeholder,
+input::-webkit-input-placeholder {
+  font-family: 'Futura PT';
+  font-weight: 400;
+  color: rgba(163, 163, 163, 1);
+}
+
+textarea::-moz-placeholder,
+input::-moz-placeholder {
+  font-family: 'Futura PT';
+  font-weight: 400;
+  color: rgba(163, 163, 163, 1);
+}
+
+textarea:-moz-placeholder,
+input:-moz-placeholder {
+  font-family: 'Futura PT';
+  font-weight: 400;
+  color: rgba(163, 163, 163, 1);
+}
+
+textarea:-ms-input-placeholder,
+input:-ms-input-placeholder {
+  font-family: 'Futura PT';
+  font-weight: 400;
+  color: rgba(163, 163, 163, 1);
+}

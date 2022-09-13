@@ -1,0 +1,34 @@
+.expert__wrapper {
+  background-color: #fff;
+  padding-top: 37px;
+  padding-bottom: 37px;
+}
+
+.expert__wrapper h2 {
+  text-align: center;
+  letter-spacing: -0.05em;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 600;
+  color: rgba(35, 46, 114, 1);
+  margin-bottom: 30px;
+}
+
+.expert__wrapper img {
+  margin: 0 auto 18px;
+}
+
+.expert__wrapper h3 {
+  text-align: center;
+  color: rgba(49, 42, 124, 1);
+  margin-bottom: 19px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.expert__wrapper p {
+  font-size: 16px;
+  line-height: 20px;
+}

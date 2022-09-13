@@ -1,0 +1,34 @@
+.how-it-works {
+  padding-bottom: 37px;
+}
+
+.how-it-works h2 {
+  font-weight: 600;
+  font-size: 36px;
+  text-align: center;
+  line-height: 36px;
+  color: rgba(35, 46, 114, 1);
+}
+
+.how-it-works ul {
+  margin-top: 30px;
+  list-style: none;
+}
+
+.how-it-works ul li {
+  margin-top: 14px;
+  padding-left: 32px;
+  position: relative;
+  font-size: 18px;
+  line-height: 18px;
+  color:rgba(73, 90, 149, 1);
+}
+
+.how-it-works ul li:before {
+  content: url('../img/heart.png');
+  position: absolute;
+  width: 22px;
+  top: 0;
+  left: 0;
+  height: 22px;
+}

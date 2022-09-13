@@ -1,0 +1,10 @@
+.hero__wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+.hero__img {
+  min-width: 320px;
+  margin-left: -18px;
+  width: 100%;
+}
